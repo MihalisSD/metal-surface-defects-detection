@@ -47,5 +47,6 @@
 ## Contact
 
 Sidiropoulos Michail - mihalisid@outlook.com
+
 Dimitrios-Iason Papadopoulos - jimjasonp@gmail.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
