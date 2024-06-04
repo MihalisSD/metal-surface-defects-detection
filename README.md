@@ -30,7 +30,7 @@
   - Evaluation of model performances using standard classification metrics.
   - Comparison with baseline classifier such as Random Forest and SVM.
   - The dataset used is:
-    - [Metal Surface Defects Dataset]([https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data))
+    - [Metal Surface Defects Dataset](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Setup of the enviroment -->
