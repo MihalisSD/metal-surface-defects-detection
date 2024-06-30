@@ -27,7 +27,7 @@
   - Implementation of  CNN to detect and classify the defects. Yolov8 and VGG16
   - Evaluation of model performances using standard classification metrics.
   - The dataset used is:
-    - [Metal Surface Defects Dataset](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data)
+    - [Metallic Surface Defect Detection](https://datasetninja.com/gc10-det#introduction)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
