@@ -208,6 +208,34 @@ history = vgg16.fit(train_dataset,
 
 results = vgg16.evaluate(test_dataset)
 
+def plot_history(history):
+    hist = pd.DataFrame(history.history)
+    hist["epoch"] = history.epoch
+
+    plt.figure()
+    plt.xlabel("Epoch")
+    plt.ylabel("Categorical Cross Entropy Loss")
+    plt.plot(hist["epoch"], hist["loss"], label = "training Loss")
+    plt.plot(hist["epoch"], hist["val_loss"], label = "validation Loss")
+    plt.legend()
+
+    plt.figure()
+    plt.xlabel("Epoch")
+    plt.ylabel("Validation Mean Squared Error (MSE)")
+    plt.plot(hist["epoch"], hist["val_xmin_mae"], label = "xmin_MSE")
+    plt.plot(hist["epoch"], hist["val_ymin_mae"], label = "ymin_MSE")
+    plt.plot(hist["epoch"], hist["val_xmax_mae"], label = "xmax_MSE")
+    plt.plot(hist["epoch"], hist["val_ymax_mae"], label = "ymax_MSE")
+    plt.legend()
+
+    plt.figure()
+    plt.xlabel("Epoch")
+    plt.ylabel("Validation Accuracy for Class")
+    plt.plot(hist["epoch"],hist["val_class_acc"], label = "class_accuracy")
+
+    plt.show()
+
+plot_history(history)
 print(vgg16.metrics_names)
 
 print("MAE of xmin value in test set:{}".format(results[6]))
