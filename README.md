@@ -12,8 +12,6 @@
   <ol>
     <li><a href="#description">Description</a>
     <li><a href="#key-features">Key Features</a></li>
-    <li><a href="#setup-of-the-enviroment">Setup of the enviroment</a></li>
-    <li><a href="#script-execution">Script execution</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -21,26 +19,15 @@
 <!-- Description -->
 ## Description
 
- - This repository contains code and resources for a multimodal project in context of the course Machine Learning in Multimedia Data. The goal of the project is to built algorythms to correctly identify and classify the type of defect of metal surfaces.
+ - This repository contains code and resources for a multimodal project in context of the course Machine Learning in Multimedia Data. The goal of the project is to built algorythms to correctly detect and classify the type of defect of metal surfaces.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Key Features:
   - Image preprocessing.
-  - Implementation of classical machine learning models and a CNN to identify and classify the defects.
+  - Implementation of  CNN to detect and classify the defects. Yolov8 and VGG16
   - Evaluation of model performances using standard classification metrics.
-  - Comparison with baseline classifier such as Random Forest and SVM.
   - The dataset used is:
     - [Metal Surface Defects Dataset](https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Setup of the enviroment -->
-## Setup of the enviroment
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Script execution -->
-## Script execution
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
