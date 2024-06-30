@@ -88,7 +88,7 @@ model = YOLO('yolov8n.pt')  # You can choose other model sizes: yolov8n.pt, yolo
 # Train the model
 model.train(
     data=data_yaml_path,
-    epochs=50,  # Number of training epochs
+    epochs=100,  # Number of training epochs
     batch=16,  # Batch size
     imgsz=640,  # Image size
     project=output_dir,
