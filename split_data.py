@@ -82,3 +82,10 @@ convert_and_save_annotations(test_files, test_images_path, test_labels_path)
 print(f'Train files: {len(train_files)}')
 print(f'Val files: {len(val_files)}')
 print(f'Test files: {len(test_files)}')
+
+@dataset{GC10-DET,
+	author={Xiaoming Lv and Fajie Duan and Jia-jia Jiang and Xiao Fu and Lin Gan},
+	title={GC10-DET: Metallic Surface Defect Detection},
+	year={2020},
+	url={https://www.kaggle.com/datasets/alex000kim/gc10det}
+}
