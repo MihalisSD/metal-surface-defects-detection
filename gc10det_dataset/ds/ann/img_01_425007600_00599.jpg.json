@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6353472,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:45:30.966Z",
+            "updatedAt": "2023-06-14T09:45:30.966Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1277,
+                        42
+                    ],
+                    [
+                        1653,
+                        376
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6353471,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:45:30.964Z",
+            "updatedAt": "2023-06-14T09:45:30.964Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1334,
+                        405
+                    ],
+                    [
+                        1827,
+                        957
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

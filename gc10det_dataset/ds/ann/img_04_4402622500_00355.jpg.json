@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350036,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:28.761Z",
+            "updatedAt": "2023-06-14T09:39:28.761Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1044,
+                        334
+                    ],
+                    [
+                        1090,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

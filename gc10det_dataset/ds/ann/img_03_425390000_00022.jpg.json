@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350355,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:55.290Z",
+            "updatedAt": "2023-06-14T09:39:55.290Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        686,
+                        144
+                    ],
+                    [
+                        763,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350354,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:55.290Z",
+            "updatedAt": "2023-06-14T09:39:55.290Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        16
+                    ],
+                    [
+                        607,
+                        997
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350353,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:55.289Z",
+            "updatedAt": "2023-06-14T09:39:55.289Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1238,
+                        736
+                    ],
+                    [
+                        1909,
+                        810
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350352,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:55.289Z",
+            "updatedAt": "2023-06-14T09:39:55.289Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        867,
+                        144
+                    ],
+                    [
+                        1579,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350141,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.037Z",
+            "updatedAt": "2023-06-14T09:39:33.037Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1434,
+                        109
+                    ],
+                    [
+                        1519,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350140,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.036Z",
+            "updatedAt": "2023-06-14T09:39:33.036Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1438,
+                        257
+                    ],
+                    [
+                        1568,
+                        436
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350139,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.035Z",
+            "updatedAt": "2023-06-14T09:39:33.035Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1846,
+                        927
+                    ],
+                    [
+                        1954,
+                        993
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350138,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.035Z",
+            "updatedAt": "2023-06-14T09:39:33.035Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        994,
+                        181
+                    ],
+                    [
+                        1203,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350137,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.033Z",
+            "updatedAt": "2023-06-14T09:39:33.033Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1845,
+                        415
+                    ],
+                    [
+                        1955,
+                        635
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

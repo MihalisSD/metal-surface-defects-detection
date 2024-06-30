@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352098,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.852Z",
+            "updatedAt": "2023-06-14T09:42:47.852Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        112,
+                        96
+                    ],
+                    [
+                        209,
+                        142
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352097,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.851Z",
+            "updatedAt": "2023-06-14T09:42:47.851Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1054,
+                        298
+                    ],
+                    [
+                        1210,
+                        546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352096,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.851Z",
+            "updatedAt": "2023-06-14T09:42:47.851Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1346,
+                        538
+                    ],
+                    [
+                        1637,
+                        852
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352095,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.851Z",
+            "updatedAt": "2023-06-14T09:42:47.851Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        1838,
+                        3
+                    ],
+                    [
+                        2018,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

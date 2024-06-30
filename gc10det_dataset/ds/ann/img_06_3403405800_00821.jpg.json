@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351942,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:32.697Z",
+            "updatedAt": "2023-06-14T09:42:32.697Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1848,
+                        170
+                    ],
+                    [
+                        1961,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351941,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:32.696Z",
+            "updatedAt": "2023-06-14T09:42:32.696Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        1
+                    ],
+                    [
+                        64,
+                        114
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351940,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:32.694Z",
+            "updatedAt": "2023-06-14T09:42:32.694Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        495
+                    ],
+                    [
+                        362,
+                        551
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

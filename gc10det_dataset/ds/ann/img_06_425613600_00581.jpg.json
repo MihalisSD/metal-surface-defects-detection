@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352187,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.912Z",
+            "updatedAt": "2023-06-14T09:42:52.912Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1854,
+                        278
+                    ],
+                    [
+                        1972,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352186,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.912Z",
+            "updatedAt": "2023-06-14T09:42:52.912Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        26,
+                        105
+                    ],
+                    [
+                        2047,
+                        172
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352185,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.911Z",
+            "updatedAt": "2023-06-14T09:42:52.911Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        324,
+                        179
+                    ],
+                    [
+                        1249,
+                        528
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352184,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.911Z",
+            "updatedAt": "2023-06-14T09:42:52.911Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        590
+                    ],
+                    [
+                        469,
+                        965
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352183,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.910Z",
+            "updatedAt": "2023-06-14T09:42:52.910Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        799,
+                        603
+                    ],
+                    [
+                        1316,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352182,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.910Z",
+            "updatedAt": "2023-06-14T09:42:52.910Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1543,
+                        508
+                    ],
+                    [
+                        1980,
+                        976
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

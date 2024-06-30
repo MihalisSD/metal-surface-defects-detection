@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351414,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:41:30.438Z",
+            "updatedAt": "2023-06-14T09:41:30.438Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        787,
+                        34
+                    ],
+                    [
+                        1317,
+                        780
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

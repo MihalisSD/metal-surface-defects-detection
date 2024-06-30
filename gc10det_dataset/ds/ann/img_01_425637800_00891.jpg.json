@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6353117,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.608Z",
+            "updatedAt": "2023-06-14T09:44:43.608Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        708,
+                        1
+                    ],
+                    [
+                        976,
+                        501
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6353116,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.607Z",
+            "updatedAt": "2023-06-14T09:44:43.607Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        905,
+                        245
+                    ],
+                    [
+                        2047,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6353115,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.606Z",
+            "updatedAt": "2023-06-14T09:44:43.606Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        940,
+                        368
+                    ],
+                    [
+                        2003,
+                        959
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6353114,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.605Z",
+            "updatedAt": "2023-06-14T09:44:43.605Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1184,
+                        47
+                    ],
+                    [
+                        1659,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

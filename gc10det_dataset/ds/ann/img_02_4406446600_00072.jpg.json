@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350107,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.027Z",
+            "updatedAt": "2023-06-14T09:39:33.027Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        214
+                    ],
+                    [
+                        408,
+                        266
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350106,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.026Z",
+            "updatedAt": "2023-06-14T09:39:33.026Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        335
+                    ],
+                    [
+                        428,
+                        428
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350105,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.025Z",
+            "updatedAt": "2023-06-14T09:39:33.025Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1679,
+                        318
+                    ],
+                    [
+                        1751,
+                        782
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350279,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.696Z",
+            "updatedAt": "2023-06-14T09:39:47.696Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        913,
+                        66
+                    ],
+                    [
+                        1294,
+                        963
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350278,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.696Z",
+            "updatedAt": "2023-06-14T09:39:47.696Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        858,
+                        798
+                    ],
+                    [
+                        908,
+                        980
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350277,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.695Z",
+            "updatedAt": "2023-06-14T09:39:47.695Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        824,
+                        183
+                    ],
+                    [
+                        872,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350276,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.694Z",
+            "updatedAt": "2023-06-14T09:39:47.694Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        850,
+                        484
+                    ],
+                    [
+                        895,
+                        664
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

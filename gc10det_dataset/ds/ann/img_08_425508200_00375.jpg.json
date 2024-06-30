@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350161,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.043Z",
+            "updatedAt": "2023-06-14T09:39:33.043Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        389,
+                        206
+                    ],
+                    [
+                        445,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350160,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.043Z",
+            "updatedAt": "2023-06-14T09:39:33.043Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        444,
+                        384
+                    ],
+                    [
+                        489,
+                        424
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350159,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.042Z",
+            "updatedAt": "2023-06-14T09:39:33.042Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        382,
+                        460
+                    ],
+                    [
+                        445,
+                        500
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350158,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:33.042Z",
+            "updatedAt": "2023-06-14T09:39:33.042Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        16
+                    ],
+                    [
+                        190,
+                        898
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

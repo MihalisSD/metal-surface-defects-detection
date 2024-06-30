@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350053,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:28.766Z",
+            "updatedAt": "2023-06-14T09:39:28.766Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1281,
+                        573
+                    ],
+                    [
+                        1390,
+                        650
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350052,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:28.765Z",
+            "updatedAt": "2023-06-14T09:39:28.765Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1040,
+                        946
+                    ],
+                    [
+                        1102,
+                        990
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350051,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:28.765Z",
+            "updatedAt": "2023-06-14T09:39:28.765Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1230,
+                        925
+                    ],
+                    [
+                        1310,
+                        991
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

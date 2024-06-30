@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352109,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.854Z",
+            "updatedAt": "2023-06-14T09:42:47.854Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        929
+                    ],
+                    [
+                        184,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352108,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.853Z",
+            "updatedAt": "2023-06-14T09:42:47.853Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        759
+                    ],
+                    [
+                        1797,
+                        798
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352107,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.853Z",
+            "updatedAt": "2023-06-14T09:42:47.853Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        1769,
+                        425
+                    ],
+                    [
+                        1972,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352106,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.852Z",
+            "updatedAt": "2023-06-14T09:42:47.852Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        459,
+                        481
+                    ],
+                    [
+                        486,
+                        508
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352105,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:47.852Z",
+            "updatedAt": "2023-06-14T09:42:47.852Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        546,
+                        519
+                    ],
+                    [
+                        586,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

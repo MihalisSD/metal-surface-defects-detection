@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350934,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:33.751Z",
+            "updatedAt": "2023-06-14T09:40:33.751Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1051,
+                        255
+                    ],
+                    [
+                        1353,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350933,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:33.751Z",
+            "updatedAt": "2023-06-14T09:40:33.751Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1440,
+                        317
+                    ],
+                    [
+                        1762,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

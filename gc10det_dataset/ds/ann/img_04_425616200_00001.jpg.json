@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6353121,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.609Z",
+            "updatedAt": "2023-06-14T09:44:43.609Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        558
+                    ],
+                    [
+                        448,
+                        629
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6353120,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.609Z",
+            "updatedAt": "2023-06-14T09:44:43.609Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        383,
+                        302
+                    ],
+                    [
+                        690,
+                        842
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

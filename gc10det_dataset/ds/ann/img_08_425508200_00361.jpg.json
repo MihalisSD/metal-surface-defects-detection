@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6349960,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:19.684Z",
+            "updatedAt": "2023-06-14T09:39:19.684Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        397,
+                        288
+                    ],
+                    [
+                        445,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6349959,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:19.683Z",
+            "updatedAt": "2023-06-14T09:39:19.683Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        9
+                    ],
+                    [
+                        432,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6349958,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:19.682Z",
+            "updatedAt": "2023-06-14T09:39:19.682Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        376,
+                        94
+                    ],
+                    [
+                        417,
+                        147
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6349957,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:19.681Z",
+            "updatedAt": "2023-06-14T09:39:19.681Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        733
+                    ],
+                    [
+                        461,
+                        789
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6349956,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:19.680Z",
+            "updatedAt": "2023-06-14T09:39:19.680Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        451
+                    ],
+                    [
+                        431,
+                        590
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6349955,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:19.679Z",
+            "updatedAt": "2023-06-14T09:39:19.679Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        45
+                    ],
+                    [
+                        238,
+                        927
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

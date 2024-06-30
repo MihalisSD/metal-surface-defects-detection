@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351013,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.605Z",
+            "updatedAt": "2023-06-14T09:40:39.605Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        862,
+                        670
+                    ],
+                    [
+                        1048,
+                        851
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351012,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.605Z",
+            "updatedAt": "2023-06-14T09:40:39.605Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1318,
+                        340
+                    ],
+                    [
+                        1657,
+                        486
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351011,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.605Z",
+            "updatedAt": "2023-06-14T09:40:39.605Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        351
+                    ],
+                    [
+                        1070,
+                        517
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351010,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.604Z",
+            "updatedAt": "2023-06-14T09:40:39.604Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1538,
+                        222
+                    ],
+                    [
+                        1786,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351009,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.604Z",
+            "updatedAt": "2023-06-14T09:40:39.604Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1810,
+                        543
+                    ],
+                    [
+                        2023,
+                        801
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351008,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.603Z",
+            "updatedAt": "2023-06-14T09:40:39.603Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        834,
+                        1
+                    ],
+                    [
+                        1097,
+                        273
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

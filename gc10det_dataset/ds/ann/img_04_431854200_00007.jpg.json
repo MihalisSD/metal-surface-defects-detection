@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350551,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:07.023Z",
+            "updatedAt": "2023-06-14T09:40:07.023Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1278,
+                        5
+                    ],
+                    [
+                        1400,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350550,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:07.023Z",
+            "updatedAt": "2023-06-14T09:40:07.023Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1458,
+                        7
+                    ],
+                    [
+                        1564,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350549,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:07.023Z",
+            "updatedAt": "2023-06-14T09:40:07.023Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1295,
+                        455
+                    ],
+                    [
+                        1417,
+                        689
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350548,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:07.022Z",
+            "updatedAt": "2023-06-14T09:40:07.022Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1258,
+                        807
+                    ],
+                    [
+                        1399,
+                        939
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350547,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:07.022Z",
+            "updatedAt": "2023-06-14T09:40:07.022Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1482,
+                        811
+                    ],
+                    [
+                        1563,
+                        897
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350546,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:07.021Z",
+            "updatedAt": "2023-06-14T09:40:07.021Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1225,
+                        957
+                    ],
+                    [
+                        1413,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

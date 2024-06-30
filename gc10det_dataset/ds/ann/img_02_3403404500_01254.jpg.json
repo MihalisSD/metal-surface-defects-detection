@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352607,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:37.895Z",
+            "updatedAt": "2023-06-14T09:43:37.895Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        389
+                    ],
+                    [
+                        2047,
+                        451
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352606,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:37.895Z",
+            "updatedAt": "2023-06-14T09:43:37.895Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        187
+                    ],
+                    [
+                        69,
+                        496
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

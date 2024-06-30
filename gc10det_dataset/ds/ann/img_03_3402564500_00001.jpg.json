@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350785,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.425Z",
+            "updatedAt": "2023-06-14T09:40:20.425Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        721,
+                        492
+                    ],
+                    [
+                        953,
+                        709
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350784,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.425Z",
+            "updatedAt": "2023-06-14T09:40:20.425Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        1725,
+                        672
+                    ],
+                    [
+                        1936,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350783,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.424Z",
+            "updatedAt": "2023-06-14T09:40:20.424Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1564,
+                        194
+                    ],
+                    [
+                        1914,
+                        368
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

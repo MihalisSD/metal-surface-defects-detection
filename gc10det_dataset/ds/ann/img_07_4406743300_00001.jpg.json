@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352503,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:28.863Z",
+            "updatedAt": "2023-06-14T09:43:28.863Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        740
+                    ],
+                    [
+                        2047,
+                        817
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352502,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:28.862Z",
+            "updatedAt": "2023-06-14T09:43:28.862Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        30
+                    ],
+                    [
+                        2032,
+                        744
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352143,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.903Z",
+            "updatedAt": "2023-06-14T09:42:52.903Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1859,
+                        27
+                    ],
+                    [
+                        1964,
+                        88
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352142,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:52.902Z",
+            "updatedAt": "2023-06-14T09:42:52.902Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        630,
+                        554
+                    ],
+                    [
+                        756,
+                        623
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

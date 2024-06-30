@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352459,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:21.603Z",
+            "updatedAt": "2023-06-14T09:43:21.603Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        784
+                    ],
+                    [
+                        2047,
+                        847
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352458,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:21.603Z",
+            "updatedAt": "2023-06-14T09:43:21.603Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1407,
+                        47
+                    ],
+                    [
+                        1623,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352457,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:21.603Z",
+            "updatedAt": "2023-06-14T09:43:21.603Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1983,
+                        968
+                    ],
+                    [
+                        2047,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

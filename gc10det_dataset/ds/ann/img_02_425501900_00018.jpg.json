@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352488,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:28.860Z",
+            "updatedAt": "2023-06-14T09:43:28.860Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        812
+                    ],
+                    [
+                        2047,
+                        870
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352487,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:28.859Z",
+            "updatedAt": "2023-06-14T09:43:28.859Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1103,
+                        257
+                    ],
+                    [
+                        1219,
+                        828
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352486,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:28.858Z",
+            "updatedAt": "2023-06-14T09:43:28.858Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1529,
+                        690
+                    ],
+                    [
+                        1640,
+                        798
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

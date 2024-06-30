@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352563,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:33.458Z",
+            "updatedAt": "2023-06-14T09:43:33.458Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        7,
+                        893
+                    ],
+                    [
+                        2047,
+                        958
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352562,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:33.457Z",
+            "updatedAt": "2023-06-14T09:43:33.457Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1576,
+                        486
+                    ],
+                    [
+                        1824,
+                        824
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352561,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:33.457Z",
+            "updatedAt": "2023-06-14T09:43:33.457Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        606
+                    ],
+                    [
+                        343,
+                        879
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

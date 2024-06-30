@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350919,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.333Z",
+            "updatedAt": "2023-06-14T09:40:29.333Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        491,
+                        262
+                    ],
+                    [
+                        2029,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350918,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.333Z",
+            "updatedAt": "2023-06-14T09:40:29.333Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        788,
+                        608
+                    ],
+                    [
+                        1083,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350917,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.333Z",
+            "updatedAt": "2023-06-14T09:40:29.333Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        603
+                    ],
+                    [
+                        637,
+                        643
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350916,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.333Z",
+            "updatedAt": "2023-06-14T09:40:29.333Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        642,
+                        547
+                    ],
+                    [
+                        845,
+                        582
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350915,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.332Z",
+            "updatedAt": "2023-06-14T09:40:29.332Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        942,
+                        693
+                    ],
+                    [
+                        1042,
+                        827
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350914,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.332Z",
+            "updatedAt": "2023-06-14T09:40:29.332Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        961,
+                        159
+                    ],
+                    [
+                        1010,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350304,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.700Z",
+            "updatedAt": "2023-06-14T09:39:47.700Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1694,
+                        208
+                    ],
+                    [
+                        1727,
+                        240
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350303,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.699Z",
+            "updatedAt": "2023-06-14T09:39:47.699Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        887,
+                        739
+                    ],
+                    [
+                        1122,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350302,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.698Z",
+            "updatedAt": "2023-06-14T09:39:47.698Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1031,
+                        187
+                    ],
+                    [
+                        1171,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

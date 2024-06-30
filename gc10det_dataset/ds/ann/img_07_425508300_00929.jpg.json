@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350241,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:42.166Z",
+            "updatedAt": "2023-06-14T09:39:42.166Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        197,
+                        475
+                    ],
+                    [
+                        310,
+                        614
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350240,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:42.166Z",
+            "updatedAt": "2023-06-14T09:39:42.166Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        192
+                    ],
+                    [
+                        319,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

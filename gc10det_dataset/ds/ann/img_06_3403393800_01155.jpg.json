@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351879,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.320Z",
+            "updatedAt": "2023-06-14T09:42:25.320Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1846,
+                        39
+                    ],
+                    [
+                        1953,
+                        103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351878,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.320Z",
+            "updatedAt": "2023-06-14T09:42:25.320Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        1
+                    ],
+                    [
+                        210,
+                        124
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

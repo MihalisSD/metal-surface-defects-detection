@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350659,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:16.163Z",
+            "updatedAt": "2023-06-14T09:40:16.163Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        126
+                    ],
+                    [
+                        123,
+                        301
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350658,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:16.162Z",
+            "updatedAt": "2023-06-14T09:40:16.162Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        378
+                    ],
+                    [
+                        113,
+                        729
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350657,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:16.158Z",
+            "updatedAt": "2023-06-14T09:40:16.158Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        824
+                    ],
+                    [
+                        100,
+                        995
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

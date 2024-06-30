@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350802,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.427Z",
+            "updatedAt": "2023-06-14T09:40:20.427Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        80
+                    ],
+                    [
+                        470,
+                        133
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350801,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.427Z",
+            "updatedAt": "2023-06-14T09:40:20.427Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        427,
+                        254
+                    ],
+                    [
+                        475,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350800,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.427Z",
+            "updatedAt": "2023-06-14T09:40:20.427Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        442,
+                        394
+                    ],
+                    [
+                        479,
+                        440
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350799,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.427Z",
+            "updatedAt": "2023-06-14T09:40:20.427Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        432,
+                        568
+                    ],
+                    [
+                        478,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350798,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:20.427Z",
+            "updatedAt": "2023-06-14T09:40:20.427Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        433,
+                        861
+                    ],
+                    [
+                        471,
+                        901
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

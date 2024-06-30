@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351858,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.316Z",
+            "updatedAt": "2023-06-14T09:42:25.316Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        2007,
+                        543
+                    ],
+                    [
+                        2047,
+                        595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351857,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.315Z",
+            "updatedAt": "2023-06-14T09:42:25.315Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        5,
+                        378
+                    ],
+                    [
+                        2043,
+                        433
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351856,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.314Z",
+            "updatedAt": "2023-06-14T09:42:25.314Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        459
+                    ],
+                    [
+                        1959,
+                        981
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

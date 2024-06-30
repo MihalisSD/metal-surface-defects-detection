@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6353135,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.614Z",
+            "updatedAt": "2023-06-14T09:44:43.614Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        759,
+                        539
+                    ],
+                    [
+                        995,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6353134,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.613Z",
+            "updatedAt": "2023-06-14T09:44:43.613Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        936,
+                        807
+                    ],
+                    [
+                        2047,
+                        887
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6353133,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:43.612Z",
+            "updatedAt": "2023-06-14T09:44:43.612Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        940,
+                        30
+                    ],
+                    [
+                        1921,
+                        778
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

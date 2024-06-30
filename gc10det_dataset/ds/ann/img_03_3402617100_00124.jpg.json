@@ -1,0 +1,250 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350300,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.699Z",
+            "updatedAt": "2023-06-14T09:39:47.699Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        758,
+                        329
+                    ],
+                    [
+                        861,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350299,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.699Z",
+            "updatedAt": "2023-06-14T09:39:47.699Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1002,
+                        284
+                    ],
+                    [
+                        1074,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350298,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.698Z",
+            "updatedAt": "2023-06-14T09:39:47.698Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        887,
+                        388
+                    ],
+                    [
+                        954,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350297,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.698Z",
+            "updatedAt": "2023-06-14T09:39:47.698Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1244,
+                        566
+                    ],
+                    [
+                        1312,
+                        612
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350296,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.697Z",
+            "updatedAt": "2023-06-14T09:39:47.697Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1154,
+                        652
+                    ],
+                    [
+                        1222,
+                        699
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350295,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.697Z",
+            "updatedAt": "2023-06-14T09:39:47.697Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        938,
+                        609
+                    ],
+                    [
+                        1015,
+                        662
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350294,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.696Z",
+            "updatedAt": "2023-06-14T09:39:47.696Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        674,
+                        855
+                    ],
+                    [
+                        717,
+                        901
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350293,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.696Z",
+            "updatedAt": "2023-06-14T09:39:47.696Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        726,
+                        953
+                    ],
+                    [
+                        784,
+                        988
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350292,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.695Z",
+            "updatedAt": "2023-06-14T09:39:47.695Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1689,
+                        522
+                    ],
+                    [
+                        1743,
+                        568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350291,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.694Z",
+            "updatedAt": "2023-06-14T09:39:47.694Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1849,
+                        648
+                    ],
+                    [
+                        1908,
+                        709
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

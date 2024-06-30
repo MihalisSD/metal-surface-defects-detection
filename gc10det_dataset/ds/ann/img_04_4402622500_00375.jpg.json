@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350285,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.697Z",
+            "updatedAt": "2023-06-14T09:39:47.697Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        362
+                    ],
+                    [
+                        226,
+                        462
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350284,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.696Z",
+            "updatedAt": "2023-06-14T09:39:47.696Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        89,
+                        530
+                    ],
+                    [
+                        146,
+                        633
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350283,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:47.696Z",
+            "updatedAt": "2023-06-14T09:39:47.696Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        753
+                    ],
+                    [
+                        164,
+                        922
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

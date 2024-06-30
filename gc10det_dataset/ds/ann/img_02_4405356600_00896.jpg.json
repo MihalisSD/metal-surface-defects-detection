@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352433,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:16.482Z",
+            "updatedAt": "2023-06-14T09:43:16.482Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        524
+                    ],
+                    [
+                        2047,
+                        609
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352432,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:16.482Z",
+            "updatedAt": "2023-06-14T09:43:16.482Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        2007,
+                        698
+                    ],
+                    [
+                        2047,
+                        762
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352431,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:16.481Z",
+            "updatedAt": "2023-06-14T09:43:16.481Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        390
+                    ],
+                    [
+                        800,
+                        530
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

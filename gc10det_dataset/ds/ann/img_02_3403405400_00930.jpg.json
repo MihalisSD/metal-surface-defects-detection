@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352271,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:02.557Z",
+            "updatedAt": "2023-06-14T09:43:02.557Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        77,
+                        273
+                    ],
+                    [
+                        2047,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352270,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:02.557Z",
+            "updatedAt": "2023-06-14T09:43:02.557Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        13
+                    ],
+                    [
+                        157,
+                        491
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352269,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:02.556Z",
+            "updatedAt": "2023-06-14T09:43:02.556Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1991,
+                        455
+                    ],
+                    [
+                        2047,
+                        517
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

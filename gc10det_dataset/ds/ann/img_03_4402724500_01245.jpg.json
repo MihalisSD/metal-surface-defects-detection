@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350987,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.602Z",
+            "updatedAt": "2023-06-14T09:40:39.602Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1436,
+                        717
+                    ],
+                    [
+                        1574,
+                        834
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350986,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.602Z",
+            "updatedAt": "2023-06-14T09:40:39.602Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1320,
+                        847
+                    ],
+                    [
+                        1476,
+                        912
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350985,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:39.601Z",
+            "updatedAt": "2023-06-14T09:40:39.601Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1308,
+                        914
+                    ],
+                    [
+                        1487,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350893,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.325Z",
+            "updatedAt": "2023-06-14T09:40:29.325Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        586
+                    ],
+                    [
+                        1404,
+                        900
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350892,
+            "classId": 8742,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:29.324Z",
+            "updatedAt": "2023-06-14T09:40:29.324Z",
+            "tags": [],
+            "classTitle": "crease",
+            "points": {
+                "exterior": [
+                    [
+                        1413,
+                        5
+                    ],
+                    [
+                        1967,
+                        860
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

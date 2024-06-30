@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350860,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:24.715Z",
+            "updatedAt": "2023-06-14T09:40:24.715Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        470,
+                        140
+                    ],
+                    [
+                        772,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350859,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:24.714Z",
+            "updatedAt": "2023-06-14T09:40:24.714Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        849,
+                        32
+                    ],
+                    [
+                        1288,
+                        964
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

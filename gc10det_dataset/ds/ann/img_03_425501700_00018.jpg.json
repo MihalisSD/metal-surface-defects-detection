@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351837,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:20.445Z",
+            "updatedAt": "2023-06-14T09:42:20.445Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        766
+                    ],
+                    [
+                        190,
+                        853
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351836,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:20.445Z",
+            "updatedAt": "2023-06-14T09:42:20.445Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        8,
+                        606
+                    ],
+                    [
+                        2043,
+                        681
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351835,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:20.444Z",
+            "updatedAt": "2023-06-14T09:42:20.444Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        1084,
+                        589
+                    ],
+                    [
+                        1483,
+                        668
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351834,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:20.444Z",
+            "updatedAt": "2023-06-14T09:42:20.444Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        411,
+                        54
+                    ],
+                    [
+                        635,
+                        638
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351833,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:20.443Z",
+            "updatedAt": "2023-06-14T09:42:20.443Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        716,
+                        368
+                    ],
+                    [
+                        1104,
+                        628
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

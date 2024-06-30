@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352623,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:37.898Z",
+            "updatedAt": "2023-06-14T09:43:37.898Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        842
+                    ],
+                    [
+                        2047,
+                        923
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352622,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:37.897Z",
+            "updatedAt": "2023-06-14T09:43:37.897Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        344
+                    ],
+                    [
+                        730,
+                        413
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352621,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:37.897Z",
+            "updatedAt": "2023-06-14T09:43:37.897Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1276,
+                        325
+                    ],
+                    [
+                        1661,
+                        420
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352620,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:37.896Z",
+            "updatedAt": "2023-06-14T09:43:37.896Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1180,
+                        1
+                    ],
+                    [
+                        1537,
+                        60
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

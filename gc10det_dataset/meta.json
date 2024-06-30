@@ -1,0 +1,86 @@
+{
+    "classes": [
+        {
+            "title": "crease",
+            "shape": "rectangle",
+            "color": "#FABED4",
+            "geometry_config": {},
+            "id": 8742,
+            "hotkey": ""
+        },
+        {
+            "title": "crescent_gap",
+            "shape": "rectangle",
+            "color": "#0082C8",
+            "geometry_config": {},
+            "id": 8736,
+            "hotkey": ""
+        },
+        {
+            "title": "inclusion",
+            "shape": "rectangle",
+            "color": "#F032E6",
+            "geometry_config": {},
+            "id": 8740,
+            "hotkey": ""
+        },
+        {
+            "title": "oil_spot",
+            "shape": "rectangle",
+            "color": "#911EB4",
+            "geometry_config": {},
+            "id": 8738,
+            "hotkey": ""
+        },
+        {
+            "title": "punching_hole",
+            "shape": "rectangle",
+            "color": "#E6194B",
+            "geometry_config": {},
+            "id": 8734,
+            "hotkey": ""
+        },
+        {
+            "title": "rolled_pit",
+            "shape": "rectangle",
+            "color": "#D2F53C",
+            "geometry_config": {},
+            "id": 8741,
+            "hotkey": ""
+        },
+        {
+            "title": "silk_spot",
+            "shape": "rectangle",
+            "color": "#46F0F0",
+            "geometry_config": {},
+            "id": 8739,
+            "hotkey": ""
+        },
+        {
+            "title": "waist folding",
+            "shape": "rectangle",
+            "color": "#008080",
+            "geometry_config": {},
+            "id": 8743,
+            "hotkey": ""
+        },
+        {
+            "title": "water_spot",
+            "shape": "rectangle",
+            "color": "#F58230",
+            "geometry_config": {},
+            "id": 8737,
+            "hotkey": ""
+        },
+        {
+            "title": "welding_line",
+            "shape": "rectangle",
+            "color": "#FFE119",
+            "geometry_config": {},
+            "id": 8735,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

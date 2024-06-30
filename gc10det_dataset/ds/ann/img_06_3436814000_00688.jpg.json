@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352732,
+            "classId": 8743,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:57.732Z",
+            "updatedAt": "2023-06-14T09:43:57.732Z",
+            "tags": [],
+            "classTitle": "waist folding",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        41
+                    ],
+                    [
+                        443,
+                        970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352731,
+            "classId": 8743,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:57.732Z",
+            "updatedAt": "2023-06-14T09:43:57.732Z",
+            "tags": [],
+            "classTitle": "waist folding",
+            "points": {
+                "exterior": [
+                    [
+                        577,
+                        863
+                    ],
+                    [
+                        1864,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352730,
+            "classId": 8743,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:57.731Z",
+            "updatedAt": "2023-06-14T09:43:57.731Z",
+            "tags": [],
+            "classTitle": "waist folding",
+            "points": {
+                "exterior": [
+                    [
+                        577,
+                        46
+                    ],
+                    [
+                        1207,
+                        763
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

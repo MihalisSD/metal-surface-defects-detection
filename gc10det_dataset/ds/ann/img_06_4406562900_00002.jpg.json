@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350261,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:42.169Z",
+            "updatedAt": "2023-06-14T09:39:42.169Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1829,
+                        162
+                    ],
+                    [
+                        1940,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350260,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:42.169Z",
+            "updatedAt": "2023-06-14T09:39:42.169Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        4
+                    ],
+                    [
+                        38,
+                        190
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350259,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:42.168Z",
+            "updatedAt": "2023-06-14T09:39:42.168Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1597,
+                        28
+                    ],
+                    [
+                        1811,
+                        928
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350258,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:42.168Z",
+            "updatedAt": "2023-06-14T09:39:42.168Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        3
+                    ],
+                    [
+                        2047,
+                        40
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

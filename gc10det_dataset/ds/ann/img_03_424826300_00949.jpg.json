@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351928,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:32.694Z",
+            "updatedAt": "2023-06-14T09:42:32.694Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        329
+                    ],
+                    [
+                        179,
+                        388
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351927,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:32.693Z",
+            "updatedAt": "2023-06-14T09:42:32.693Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        152
+                    ],
+                    [
+                        2043,
+                        213
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

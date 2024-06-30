@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351577,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:41:49.089Z",
+            "updatedAt": "2023-06-14T09:41:49.089Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        982,
+                        403
+                    ],
+                    [
+                        1261,
+                        829
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351576,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:41:49.089Z",
+            "updatedAt": "2023-06-14T09:41:49.089Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1099,
+                        707
+                    ],
+                    [
+                        1297,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351575,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:41:49.088Z",
+            "updatedAt": "2023-06-14T09:41:49.088Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        938,
+                        127
+                    ],
+                    [
+                        1030,
+                        311
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351894,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.322Z",
+            "updatedAt": "2023-06-14T09:42:25.322Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        74,
+                        804
+                    ],
+                    [
+                        223,
+                        878
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351893,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.322Z",
+            "updatedAt": "2023-06-14T09:42:25.322Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        13,
+                        635
+                    ],
+                    [
+                        2045,
+                        705
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351892,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.321Z",
+            "updatedAt": "2023-06-14T09:42:25.321Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        415,
+                        160
+                    ],
+                    [
+                        583,
+                        219
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352243,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:57.769Z",
+            "updatedAt": "2023-06-14T09:42:57.769Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1995,
+                        1
+                    ],
+                    [
+                        2047,
+                        42
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352242,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:57.768Z",
+            "updatedAt": "2023-06-14T09:42:57.768Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        407,
+                        733
+                    ],
+                    [
+                        1088,
+                        786
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

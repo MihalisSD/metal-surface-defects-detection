@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351930,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:32.694Z",
+            "updatedAt": "2023-06-14T09:42:32.694Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        1854,
+                        37
+                    ],
+                    [
+                        1964,
+                        86
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351929,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:32.693Z",
+            "updatedAt": "2023-06-14T09:42:32.693Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        16,
+                        27
+                    ],
+                    [
+                        1829,
+                        967
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350067,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:28.766Z",
+            "updatedAt": "2023-06-14T09:39:28.766Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        392,
+                        150
+                    ],
+                    [
+                        444,
+                        196
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350066,
+            "classId": 8740,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:28.766Z",
+            "updatedAt": "2023-06-14T09:39:28.766Z",
+            "tags": [],
+            "classTitle": "inclusion",
+            "points": {
+                "exterior": [
+                    [
+                        400,
+                        595
+                    ],
+                    [
+                        460,
+                        651
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350065,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:28.765Z",
+            "updatedAt": "2023-06-14T09:39:28.765Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        51
+                    ],
+                    [
+                        265,
+                        947
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

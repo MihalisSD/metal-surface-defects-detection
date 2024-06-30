@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350200,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:37.775Z",
+            "updatedAt": "2023-06-14T09:39:37.775Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1833,
+                        9
+                    ],
+                    [
+                        2040,
+                        827
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350199,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:39:37.774Z",
+            "updatedAt": "2023-06-14T09:39:37.774Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1641,
+                        9
+                    ],
+                    [
+                        1711,
+                        990
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

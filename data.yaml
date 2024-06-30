@@ -1,0 +1,16 @@
+path: C:\Users\Mihalis\Desktop\multimodal\gc10det_dataset
+train: images\train
+val: images\val
+test: images\test
+
+names:
+0: crease
+1: crescent_gap
+2: inclusion
+3: oil_spot
+4: punching_hole
+5: rolled_pit
+6: silk_spot
+7: waist_folding
+8: water_spot
+9: welding_line

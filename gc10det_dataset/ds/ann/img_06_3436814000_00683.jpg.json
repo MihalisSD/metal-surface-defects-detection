@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352762,
+            "classId": 8743,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:04.884Z",
+            "updatedAt": "2023-06-14T09:44:04.884Z",
+            "tags": [],
+            "classTitle": "waist folding",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        119
+                    ],
+                    [
+                        2047,
+                        532
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352761,
+            "classId": 8743,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:04.882Z",
+            "updatedAt": "2023-06-14T09:44:04.882Z",
+            "tags": [],
+            "classTitle": "waist folding",
+            "points": {
+                "exterior": [
+                    [
+                        751,
+                        705
+                    ],
+                    [
+                        1648,
+                        992
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

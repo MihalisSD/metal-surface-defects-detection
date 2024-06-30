@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351911,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.324Z",
+            "updatedAt": "2023-06-14T09:42:25.324Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        575
+                    ],
+                    [
+                        181,
+                        634
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351910,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.324Z",
+            "updatedAt": "2023-06-14T09:42:25.324Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        387
+                    ],
+                    [
+                        2034,
+                        457
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351909,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.324Z",
+            "updatedAt": "2023-06-14T09:42:25.324Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        359,
+                        482
+                    ],
+                    [
+                        1284,
+                        987
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351908,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.323Z",
+            "updatedAt": "2023-06-14T09:42:25.323Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1897,
+                        767
+                    ],
+                    [
+                        2024,
+                        913
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

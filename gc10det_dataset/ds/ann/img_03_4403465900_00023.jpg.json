@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6350566,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:11.287Z",
+            "updatedAt": "2023-06-14T09:40:11.287Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1856,
+                        684
+                    ],
+                    [
+                        1928,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350565,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:11.287Z",
+            "updatedAt": "2023-06-14T09:40:11.287Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1910,
+                        118
+                    ],
+                    [
+                        1935,
+                        340
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6350564,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:40:11.286Z",
+            "updatedAt": "2023-06-14T09:40:11.286Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1893,
+                        487
+                    ],
+                    [
+                        1933,
+                        698
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

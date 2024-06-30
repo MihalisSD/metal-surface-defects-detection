@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352786,
+            "classId": 8743,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:44:09.729Z",
+            "updatedAt": "2023-06-14T09:44:09.729Z",
+            "tags": [],
+            "classTitle": "waist folding",
+            "points": {
+                "exterior": [
+                    [
+                        230,
+                        84
+                    ],
+                    [
+                        1228,
+                        921
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

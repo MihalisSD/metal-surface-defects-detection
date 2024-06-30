@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6352419,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:16.480Z",
+            "updatedAt": "2023-06-14T09:43:16.480Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        919
+                    ],
+                    [
+                        2047,
+                        989
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6352418,
+            "classId": 8738,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:43:16.479Z",
+            "updatedAt": "2023-06-14T09:43:16.479Z",
+            "tags": [],
+            "classTitle": "oil_spot",
+            "points": {
+                "exterior": [
+                    [
+                        529,
+                        521
+                    ],
+                    [
+                        959,
+                        625
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

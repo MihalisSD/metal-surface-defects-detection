@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351336,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:41:21.477Z",
+            "updatedAt": "2023-06-14T09:41:21.477Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1043,
+                        168
+                    ],
+                    [
+                        1308,
+                        760
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351335,
+            "classId": 8739,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:41:21.476Z",
+            "updatedAt": "2023-06-14T09:41:21.476Z",
+            "tags": [],
+            "classTitle": "silk_spot",
+            "points": {
+                "exterior": [
+                    [
+                        489,
+                        66
+                    ],
+                    [
+                        749,
+                        519
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

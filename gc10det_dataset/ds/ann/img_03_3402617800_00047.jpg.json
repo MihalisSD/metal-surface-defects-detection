@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6353290,
+            "classId": 8737,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:45:03.796Z",
+            "updatedAt": "2023-06-14T09:45:03.796Z",
+            "tags": [],
+            "classTitle": "water_spot",
+            "points": {
+                "exterior": [
+                    [
+                        1094,
+                        178
+                    ],
+                    [
+                        1392,
+                        470
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

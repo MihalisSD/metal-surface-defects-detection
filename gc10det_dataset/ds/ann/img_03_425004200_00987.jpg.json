@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1000,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 6351883,
+            "classId": 8734,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.320Z",
+            "updatedAt": "2023-06-14T09:42:25.320Z",
+            "tags": [],
+            "classTitle": "punching_hole",
+            "points": {
+                "exterior": [
+                    [
+                        79,
+                        575
+                    ],
+                    [
+                        218,
+                        655
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351882,
+            "classId": 8735,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.320Z",
+            "updatedAt": "2023-06-14T09:42:25.320Z",
+            "tags": [],
+            "classTitle": "welding_line",
+            "points": {
+                "exterior": [
+                    [
+                        11,
+                        428
+                    ],
+                    [
+                        1797,
+                        503
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351881,
+            "classId": 8741,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.319Z",
+            "updatedAt": "2023-06-14T09:42:25.319Z",
+            "tags": [],
+            "classTitle": "rolled_pit",
+            "points": {
+                "exterior": [
+                    [
+                        1423,
+                        813
+                    ],
+                    [
+                        1477,
+                        893
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6351880,
+            "classId": 8736,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T09:42:25.319Z",
+            "updatedAt": "2023-06-14T09:42:25.319Z",
+            "tags": [],
+            "classTitle": "crescent_gap",
+            "points": {
+                "exterior": [
+                    [
+                        1777,
+                        136
+                    ],
+                    [
+                        1997,
+                        749
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
