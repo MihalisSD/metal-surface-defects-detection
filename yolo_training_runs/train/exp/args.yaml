@@ -10,11 +10,11 @@ imgsz: 640
 save: true
 save_period: -1
 cache: false
-device: mps
+device: 0
 workers: 8
 project: /content/drive/MyDrive/ds/runs/train
 name: exp
-exist_ok: false
+exist_ok: true
 pretrained: true
 optimizer: auto
 verbose: true
